@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "シリョクケンサ",
+  "base_artist": "40mP",
+  "createdAt": "2026-02-14T00:39:22.029449Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シリョクケンサ (feat.GUMI)",
+      "artist": "40mp",
+      "has_synced": true,
+      "path": "select/01_シリョクケンサ_(feat.GUMI)_40mp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シリョクケンサ",
+      "artist": "40mP feat. GUMI",
+      "has_synced": true,
+      "path": "select/02_シリョクケンサ_40mP_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シリョクケンサ",
+      "artist": "40mP feat. GUMI",
+      "has_synced": true,
+      "path": "select/03_シリョクケンサ_40mP_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シリョクケンサ",
+      "artist": "40mP",
+      "has_synced": false,
+      "path": "select/04_シリョクケンサ_40mP.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シリョクケンサ(カバー) feat. Mayumi Morinaga",
+      "artist": "40mP",
+      "has_synced": false,
+      "path": "select/05_シリョクケンサ(カバー)_feat._Mayumi_Morinaga_40mP.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シリョクケンサ",
+      "artist": "96猫",
+      "has_synced": false,
+      "path": "select/06_シリョクケンサ_96猫.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シリョクケンサ",
+      "artist": "Kuroneko",
+      "has_synced": false,
+      "path": "select/07_シリョクケンサ_Kuroneko.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シリョクケンサ",
+      "artist": "40mP feat.GUMI",
+      "has_synced": true,
+      "path": "select/08_シリョクケンサ_40mP_feat.GUMI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シリョクケンサ",
+      "artist": "Gumi",
+      "has_synced": false,
+      "path": "select/09_シリョクケンサ_Gumi.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シリョクケンサ",
+      "artist": "Mayumi Morinaga",
+      "has_synced": false,
+      "path": "select/10_シリョクケンサ_Mayumi_Morinaga.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "シリョクケンサ",
+      "artist": "VA",
+      "has_synced": false,
+      "path": "select/11_シリョクケンサ_VA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シリョクケンサ",
+      "artist": "GUMI",
+      "has_synced": false,
+      "path": "select/pl_01_シリョクケンサ_GUMI.txt"
+    }
+  ]
+}
